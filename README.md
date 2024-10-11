@@ -1,1 +1,1 @@
-"# SKATC Plan Tracking System" 
+# SKATC Plan Tracking System
