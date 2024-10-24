@@ -56,7 +56,7 @@
     <section class="section">
         <div class="container">
             <h1 class="title">
-                เข้าสู่ระบบ - ระบบติดตามสถานะโครงการ
+                ลงทะเบียน - ระบบติดตามสถานะโครงการ
             </h1>
             <!-- <div class="box"> -->
             <div class="columns is-desktop">
@@ -65,7 +65,7 @@
                 </div>
                 <div class="column">
                     <div class="box">
-                        <strong class="subtitle">เข้าสู่ระบบ</strong>
+                        <strong class="subtitle">ลงทะเบียนเข้าใช้ระบบ</strong>
                         <form action="login.php" method="post">
                             <div class="field">
                                 <p class="control has-icons-left has-icons-right">
@@ -88,8 +88,8 @@
                             </div>
                             <div class="field">
                                 <p class="control">
-                                    <button class="button is-success">
-                                        Login
+                                    <button class="button is-success has-text-white">
+                                        ลงทะเบียน
                                     </button>
                                 </p>
                             </div>
